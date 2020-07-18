@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/delivery/static/css/main.762bcaa6.chunk.css",
+    "main.css": "/delivery/static/css/main.a99e34f7.chunk.css",
     "main.js": "/delivery/static/js/main.bf1c019b.chunk.js",
     "main.js.map": "/delivery/static/js/main.bf1c019b.chunk.js.map",
     "runtime-main.js": "/delivery/static/js/runtime-main.785fe610.js",
@@ -9,10 +9,10 @@
     "static/js/2.42fbac87.chunk.js": "/delivery/static/js/2.42fbac87.chunk.js",
     "static/js/2.42fbac87.chunk.js.map": "/delivery/static/js/2.42fbac87.chunk.js.map",
     "index.html": "/delivery/index.html",
-    "precache-manifest.55ff55fa2edec53daed723e4b3821a4d.js": "/delivery/precache-manifest.55ff55fa2edec53daed723e4b3821a4d.js",
+    "precache-manifest.fc9e9404c7e3700bc3bfd9f2a8bb6cf9.js": "/delivery/precache-manifest.fc9e9404c7e3700bc3bfd9f2a8bb6cf9.js",
     "service-worker.js": "/delivery/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/delivery/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.762bcaa6.chunk.css.map": "/delivery/static/css/main.762bcaa6.chunk.css.map",
+    "static/css/main.a99e34f7.chunk.css.map": "/delivery/static/css/main.a99e34f7.chunk.css.map",
     "static/js/2.42fbac87.chunk.js.LICENSE.txt": "/delivery/static/js/2.42fbac87.chunk.js.LICENSE.txt",
     "static/media/App.css": "/delivery/static/media/bigBalloon.c49e2575.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.785fe610.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.42fbac87.chunk.js",
-    "static/css/main.762bcaa6.chunk.css",
+    "static/css/main.a99e34f7.chunk.css",
     "static/js/main.bf1c019b.chunk.js"
   ]
 }
